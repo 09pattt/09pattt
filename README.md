@@ -1,25 +1,4 @@
-# Hi 👋, I'm Pat
-
-Mr. Napat Tosawat | 16 years old little developer
-
----
-
-### 🧑‍💻 Some things about me
-
-- I'm a high school student
-- I want to be a **Software Engineer** as I grow up
-- I use macOS🍎 and Windows🪟
-
-### 🔭 I’m currently working on
-
-- Web-application
-- Mobile application
-- Database management
-
-### 🌱 I’m currently learning
-
-- 3D printing and using CAD
-- OOP
+# Mr.Napat Tosawat
 
 ---
 
